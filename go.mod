@@ -3,7 +3,7 @@ module nabeelsaabnaTests/test-go-renovate
 go 1.20
 
 require (
-	github.com/docker/docker v23.0.6+incompatible
+	github.com/docker/docker v25.0.5+incompatible
 	github.com/gammazero/workerpool v1.1.3
 	github.com/google/go-cmp v0.5.8
 	github.com/kelseyhightower/envconfig v1.4.0
