@@ -1,5 +1,6 @@
 {
   "dependencyDashboard": true,
+  "postUpdateOptions": ["gomodTidy"],
   "packageRules": [
     {
       "matchDatasources": [
