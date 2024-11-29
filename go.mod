@@ -7,7 +7,7 @@ require (
 	github.com/gammazero/workerpool v1.1.3
 	github.com/google/go-cmp v0.5.8
 	github.com/kelseyhightower/envconfig v1.4.0
-	github.com/opencontainers/image-spec v1.0.2
+	github.com/opencontainers/image-spec v1.1.0
 	github.com/rs/zerolog v1.29.1
 	golang.org/x/sync v0.1.0
 	golang.org/x/sys v0.5.0
